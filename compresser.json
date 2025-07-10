@@ -1,0 +1,7 @@
+{
+  "name": "awarcrown/cybertron7",
+  "require": {
+    "php": "^8.1",
+    "symfony/symfony": "^6.0"
+  }
+}
