@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore PHP/Node caches
+*.log
+*.tmp
+__pycache__/
+node_modules/
+
+# Ignore IDE configs
+.vscode/
+.idea/
+
+# Ignore sensitive
+.env
