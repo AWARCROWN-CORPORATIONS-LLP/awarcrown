@@ -1,0 +1,19 @@
+version: 2
+updates:
+  # 1. PHP ecosystem (e.g., composer.json)
+  - package-ecosystem: "composer"
+    directory: "/"              # location of composer.json
+    schedule:
+      interval: "weekly"
+
+  # 2. JavaScript/Node (e.g., package.json)
+  - package-ecosystem: "npm"
+    directory: "/"              # if you have package.json at root
+    schedule:
+      interval: "weekly"
+
+  # 3. GitHub Actions updates
+  - package-ecosystem: "github-actions"
+    directory: "/"              # always "/"
+    schedule:
+      interval: "weekly"
