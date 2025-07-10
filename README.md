@@ -48,8 +48,4 @@ Unauthorized reuse or reproduction is strictly prohibited.
 
 ---
 
-## 🤝 Maintainers
 
-- Aditya (CEO, Core Architect)
-- CTO Panel (Module Leads)
-- R&D Team (Security, Algorithms, and Garth Modules)
