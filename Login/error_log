@@ -1,0 +1,980 @@
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:07:58 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:07:58 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:07:58 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:07:58 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:07:58 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:07:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:07:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:07:59 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:07:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:00 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:00 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:00 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:00 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:01 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:01 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:01 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:01 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:01 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:02 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:02 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:02 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:02 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:03 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:03 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:03 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:03 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:06 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:07 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:07 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:07 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:07 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:08 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:08 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:08 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:08:08 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:08:08 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:25 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:25 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:25 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:25 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:26 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:26 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:26 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:26 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:27 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:28 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:28 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:28 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:28 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:29 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:30 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:30 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:30 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:30 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:32 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:33 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:33 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:33 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:33 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:33 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:34 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:34 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:34 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:34 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:35 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:35 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:35 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:35 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:36 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:36 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:36 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:36 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:36 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:37 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:37 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[16-Aug-2024 10:11:37 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[16-Aug-2024 10:11:37 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[17-Aug-2024 16:55:08 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[17-Aug-2024 16:58:14 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[17-Aug-2024 16:58:56 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[17-Aug-2024 16:59:29 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[17-Aug-2024 17:01:27 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[17-Aug-2024 17:03:11 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[17-Aug-2024 17:06:06 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[17-Aug-2024 17:07:05 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[17-Aug-2024 17:10:39 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[17-Aug-2024 17:11:11 UTC] PHP Warning:  Undefined variable $email in /home/yxludmysfn0v/public_html/Login/login.php on line 38
+[17-Aug-2024 17:12:15 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[17-Aug-2024 17:12:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/yxludmysfn0v/public_html/Login/login.php:31
+Stack trace:
+#0 /home/yxludmysfn0v/public_html/Login/login.php(31): mysqli_stmt->bind_result()
+#1 {main}
+  thrown in /home/yxludmysfn0v/public_html/Login/login.php on line 31
+[17-Aug-2024 17:13:28 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[17-Aug-2024 17:17:20 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[17-Aug-2024 17:17:34 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/pfdash.php on line 11
+[18-Aug-2024 04:16:23 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[18-Aug-2024 04:16:23 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 04:16:23 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 04:16:23 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 04:16:23 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 04:16:23 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 04:16:23 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[18-Aug-2024 06:08:01 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 18
+[18-Aug-2024 06:08:01 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:08:01 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:08:01 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:08:01 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:08:01 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:08:01 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 27
+[18-Aug-2024 06:11:23 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:23 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:23 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:23 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:23 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:23 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:23 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:24 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:24 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:24 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:24 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:24 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:24 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:24 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:24 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:24 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:24 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:24 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:24 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:25 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:25 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:25 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:25 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:25 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:25 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:25 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:26 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:26 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:26 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:26 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:26 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:26 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:26 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:26 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:26 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:26 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:26 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:26 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:26 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:26 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:27 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:27 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:27 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:27 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:27 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:27 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:27 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:27 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:27 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:27 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:27 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:27 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:28 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:28 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:28 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:28 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:28 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:28 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:28 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:28 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:28 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:28 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:28 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:28 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:28 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:28 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:30 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:30 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:30 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:30 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:30 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:30 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:30 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:30 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:30 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:30 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:30 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:30 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:30 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:30 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:31 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:31 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:31 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:31 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:31 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:31 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:32 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:32 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:32 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:32 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:32 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:32 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:32 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:32 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:32 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:32 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:32 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:32 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:33 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:33 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:33 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:33 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:33 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:33 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:33 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:33 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:33 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:33 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:33 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:33 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:33 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:33 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:34 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:34 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:34 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:34 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:34 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:34 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:34 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:34 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:34 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:34 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:34 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:34 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:34 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:34 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:11:35 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:11:35 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:11:35 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:11:35 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:11:35 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:11:35 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:11:35 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 06:12:30 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 06:12:30 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 06:12:30 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 06:12:30 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 06:12:30 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 06:12:30 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 06:12:30 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 09:31:23 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 09:31:23 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 09:31:23 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 09:31:23 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 09:31:23 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 09:31:23 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 09:31:23 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 09:31:39 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 09:31:39 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 09:31:39 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 09:31:39 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 09:31:39 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 09:31:39 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 09:31:39 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 09:31:45 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 09:31:45 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 09:31:45 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 09:31:45 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 09:31:45 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 09:31:45 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 09:31:45 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 10:51:25 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 10:51:25 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 10:51:25 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 10:51:25 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 10:51:25 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 10:51:25 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 10:51:25 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 11:02:27 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 11:02:27 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 11:02:27 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 11:02:27 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 11:02:27 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 11:02:27 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 11:02:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 11:30:04 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 11:30:04 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 11:30:04 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 11:30:04 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 11:30:04 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 11:30:04 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 11:30:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 11:30:09 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 11:30:09 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 11:30:09 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 11:30:09 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 11:30:09 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 11:30:09 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 11:30:09 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 16:21:42 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 16:21:42 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 16:21:42 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 16:21:42 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 16:21:42 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 16:21:42 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 16:21:42 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 17:27:34 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 17:27:34 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 17:27:34 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 17:27:34 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 17:27:34 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 17:27:34 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 17:27:34 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Aug-2024 17:34:38 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[18-Aug-2024 17:34:38 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[18-Aug-2024 17:34:38 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[18-Aug-2024 17:34:38 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[18-Aug-2024 17:34:38 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[18-Aug-2024 17:34:38 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[18-Aug-2024 17:34:38 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Aug-2024 03:20:54 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Aug-2024 03:20:54 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Aug-2024 03:20:54 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Aug-2024 03:20:54 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Aug-2024 03:20:54 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Aug-2024 03:20:54 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Aug-2024 03:20:54 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Aug-2024 03:40:11 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Aug-2024 03:40:11 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Aug-2024 03:40:11 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Aug-2024 03:40:11 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Aug-2024 03:40:11 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Aug-2024 03:40:11 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Aug-2024 03:40:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Aug-2024 04:15:12 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Aug-2024 04:15:12 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Aug-2024 04:15:12 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Aug-2024 04:15:12 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Aug-2024 04:15:12 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Aug-2024 04:15:12 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Aug-2024 04:15:12 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Aug-2024 04:15:37 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Aug-2024 04:15:37 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Aug-2024 04:15:37 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Aug-2024 04:15:37 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Aug-2024 04:15:37 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Aug-2024 04:15:37 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Aug-2024 04:15:37 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Aug-2024 04:29:33 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Aug-2024 04:29:33 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Aug-2024 04:29:33 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Aug-2024 04:29:33 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Aug-2024 04:29:33 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Aug-2024 04:29:33 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Aug-2024 04:29:33 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Aug-2024 04:30:37 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Aug-2024 04:30:37 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Aug-2024 04:30:37 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Aug-2024 04:30:37 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Aug-2024 04:30:37 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Aug-2024 04:30:37 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Aug-2024 04:30:37 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Aug-2024 04:38:52 UTC] PHP Warning:  Undefined variable $username in /home/yxludmysfn0v/public_html/Login/viewpolicy.php on line 101
+[19-Aug-2024 08:15:47 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Aug-2024 08:15:47 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Aug-2024 08:15:47 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Aug-2024 08:15:47 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Aug-2024 08:15:47 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Aug-2024 08:15:47 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Aug-2024 08:15:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Aug-2024 10:56:06 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Aug-2024 10:56:06 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Aug-2024 10:56:06 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Aug-2024 10:56:06 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Aug-2024 10:56:06 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Aug-2024 10:56:06 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Aug-2024 10:56:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Aug-2024 12:48:46 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Aug-2024 12:48:46 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Aug-2024 12:48:46 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Aug-2024 12:48:46 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Aug-2024 12:48:46 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Aug-2024 12:48:46 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Aug-2024 12:48:46 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Aug-2024 16:09:58 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Aug-2024 16:09:58 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Aug-2024 16:09:58 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Aug-2024 16:09:58 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Aug-2024 16:09:58 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Aug-2024 16:09:58 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Aug-2024 16:09:58 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[06-Sep-2024 15:28:34 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[06-Sep-2024 15:28:34 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[06-Sep-2024 15:28:34 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[06-Sep-2024 15:28:34 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[06-Sep-2024 15:28:34 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[06-Sep-2024 15:28:34 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[06-Sep-2024 15:28:34 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[09-Sep-2024 04:36:55 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[09-Sep-2024 04:36:55 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[09-Sep-2024 04:36:55 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[09-Sep-2024 04:36:55 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[09-Sep-2024 04:36:55 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[09-Sep-2024 04:36:55 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[09-Sep-2024 04:36:55 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[18-Sep-2024 13:00:06 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/main-interface.php on line 16
+[18-Sep-2024 13:00:13 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/main-interface.php on line 16
+[19-Sep-2024 13:35:06 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 13:35:06 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 13:35:06 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 13:35:06 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 13:35:06 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 13:35:06 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 13:35:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 13:35:50 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 13:35:50 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 13:35:50 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 13:35:50 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 13:35:50 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 13:35:50 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 13:35:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 13:37:55 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 13:37:55 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 13:37:55 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 13:37:55 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 13:37:55 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 13:37:55 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 13:37:55 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 13:39:53 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 13:39:53 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 13:39:53 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 13:39:53 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 13:39:53 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 13:39:53 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 13:39:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 13:41:07 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 13:41:07 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 13:41:07 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 13:41:07 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 13:41:07 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 13:41:07 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 13:41:07 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 13:45:44 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 13:45:44 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 13:45:44 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 13:45:44 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 13:45:44 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 13:45:44 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 13:45:44 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 14:00:28 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 14:00:28 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 14:00:28 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 14:00:28 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 14:00:28 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 14:00:28 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 14:00:28 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 14:02:28 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 14:02:28 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 14:02:28 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 14:02:28 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 14:02:28 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 14:02:28 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 14:02:28 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 14:03:17 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 14:03:17 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 14:03:17 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 14:03:17 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 14:03:17 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 14:03:17 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 14:03:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 14:05:05 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 14:05:05 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 14:05:05 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 14:05:05 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 14:05:05 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 14:05:05 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 14:05:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 14:08:43 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 14:08:43 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 14:08:43 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 14:08:43 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 14:08:43 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 14:08:43 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 14:08:43 UTC] PHP Warning:  Undefined variable $password in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 14:08:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 14:10:18 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 14:10:18 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 14:10:18 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 14:10:18 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 14:10:18 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 14:10:18 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 14:10:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 14:12:16 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 14:12:16 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 14:12:16 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 14:12:16 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 14:12:16 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 14:12:16 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 14:12:16 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[19-Sep-2024 14:13:36 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[19-Sep-2024 14:13:36 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[19-Sep-2024 14:13:36 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[19-Sep-2024 14:13:36 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[19-Sep-2024 14:13:36 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[19-Sep-2024 14:13:36 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[19-Sep-2024 14:13:36 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 75
+[19-Sep-2024 14:13:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'username' cannot be null in /home/yxludmysfn0v/public_html/Login/register.php:80
+Stack trace:
+#0 /home/yxludmysfn0v/public_html/Login/register.php(80): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/yxludmysfn0v/public_html/Login/register.php on line 80
+[27-Sep-2024 16:43:19 UTC] PHP Warning:  Undefined array key "username" in /home/yxludmysfn0v/public_html/Login/register.php on line 19
+[27-Sep-2024 16:43:19 UTC] PHP Warning:  Undefined array key "password" in /home/yxludmysfn0v/public_html/Login/register.php on line 20
+[27-Sep-2024 16:43:19 UTC] PHP Warning:  Undefined array key "conformpassword" in /home/yxludmysfn0v/public_html/Login/register.php on line 21
+[27-Sep-2024 16:43:19 UTC] PHP Warning:  Undefined array key "name" in /home/yxludmysfn0v/public_html/Login/register.php on line 22
+[27-Sep-2024 16:43:19 UTC] PHP Warning:  Undefined array key "college_name" in /home/yxludmysfn0v/public_html/Login/register.php on line 23
+[27-Sep-2024 16:43:19 UTC] PHP Warning:  Undefined array key "email" in /home/yxludmysfn0v/public_html/Login/register.php on line 24
+[27-Sep-2024 16:43:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/yxludmysfn0v/public_html/Login/register.php on line 28
+[28-Dec-2024 17:43:43 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/yxludmysfn0v/public_html/Login/feedbacksave.php on line 10
+[28-Dec-2024 17:43:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yxludmysfn0v/public_html/Login/feedbacksave.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/yxludmysfn0v/public_html/Login/feedbacksave.php on line 10
+[28-Dec-2024 17:44:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/yxludmysfn0v/public_html/Login/feedbacksave.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/yxludmysfn0v/public_html/Login/feedbacksave.php on line 42
+[01-Apr-2025 05:34:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'cybertron7maindatabase'@'localhost' (using password: YES) in /home/cvbymwif7akv/public_html/Login/feedbacksave.php:14
+Stack trace:
+#0 /home/cvbymwif7akv/public_html/Login/feedbacksave.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/cvbymwif7akv/public_html/Login/feedbacksave.php on line 14

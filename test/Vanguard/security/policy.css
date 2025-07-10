@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+.policy {
+    line-height: 2;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 60px;
+    border: 3px solid black;
+    padding: 40px;
+    background-color: rgb(255, 255, 255);
+}
+
+#submit{
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border: none;
+    transition: .5s ease;
+    cursor: pointer;
+   
+
+}
+
+#submit:hover {
+    background-color: rgb(3, 165, 3);
+}
+
+@media only screen and (max-width: 700px) {
+    .policy {
+        width: 90%;
+        margin: 20px auto;
+        padding: 20px;
+    }
+}

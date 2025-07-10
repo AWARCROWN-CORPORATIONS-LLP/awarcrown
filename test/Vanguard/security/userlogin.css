@@ -1,0 +1,267 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    scroll-behavior: smooth;
+    background-color: #f7f7f7; /* Light gray for the page background */
+    background-repeat: no-repeat;
+    background-attachment: center;
+}
+.error-message {
+    color: gray;
+    font-size: 0.875rem; 
+    margin-top: 0.5rem;
+    position: absolute;
+    z-index: 10; 
+    left: 0;
+    top: 100%; 
+    width: auto;
+    height: auto;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: white;
+    display: none;
+}
+.login-page {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-top:50px;
+}
+
+.company-container {
+    display: flex;
+    align-items: center;
+    margin: 200px 200px;
+}
+
+.image-container {
+    margin-right: 50px;
+}
+
+.image-container img {
+    height: 180px;
+    display: block;
+}
+
+.cybertron7-name {
+    font-size: 2.8rem;
+    width : 100px;
+    color: #202124; /* Dark gray (almost black) */
+}
+
+.form-container {
+    width: 400px;
+    background: #fff; /* Pure white form background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for a modern, clean look */
+    padding: 30px 100px;
+    position: relative;
+    overflow: hidden;
+    height: 500px;
+    border-radius: 10px;
+    margin-left : 150px;
+}
+
+.button-container {
+    width: 300px;
+    margin: 35px auto;
+    position: relative;
+    display: flex;
+}
+
+.toggle-btn {
+    font-size: 1rem;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: none;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    z-index: 1;
+    transition: color 0.3s ease;
+}
+
+#buttons {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    background: #1a73e8; 
+    border-radius: 30px;
+    transition: left 0.3s ease;
+    z-index: 0;
+}
+
+#registerbutton {
+    color: black; 
+}
+
+.input-details {
+    position: absolute;
+    width: 280px;
+    transition: left 0.5s ease;
+    left: 50px;
+}
+
+.input-box {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.input-box input {
+    width: 100%;
+    padding: 15px 40px 15px 15px;
+    background-color: #fff; /* White input fields */
+    border: 2px solid #dadce0; /* Light gray borders */
+    border-radius: 5px;
+    font-size: 16px;
+    color: #202124; /* Dark gray text */
+    transition: border-color 0.3s ease;
+    outline: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.input-box label {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    color: #80868b; /* Medium gray for placeholder labels */
+    pointer-events: none;
+    transition: 0.3s ease;
+    font-size: 16px;
+    transform: translateY(-50%);
+    padding: 0 5px;
+}
+.rememberme{
+    margin-bottom : 1rem;
+}
+.input-box input:focus {
+    border-color: #1a73e8; /* Blue border on focus, Google's accent */
+}
+
+.input-box input:focus + label,
+.input-box input:not(:placeholder-shown) + label {
+    top: -0px;
+    font-size: 14px;
+    color: #1a73e8; /* Blue label when input is focused */
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.form-submit {
+    width: 180px;
+    padding: 10px;
+    background-color: #1a73e8; /* Google's blue for buttons */
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white; /* White text for buttons */
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 20px 60px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form-submit:hover {
+    background-color: #135ab6; /* Slightly darker blue on hover */
+}
+
+.visibility-icon {
+    position: absolute;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#login-form {
+    left: 50px;
+}
+
+#register-form {
+    left: 450px;
+}
+
+/* Media queries */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .form-container {
+        width: 450px;
+        padding: 30px 50px;
+    }
+
+    .company-container {
+        margin: 0 150px;
+    }
+
+    .cybertron7-name {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .login-page {
+        flex-direction: column;
+        justify-content: center;
+        margin-top:0px;
+    }
+
+    .company-container {
+        flex-direction: column;
+        align-items: center;
+        margin: 0px 0 30px 0;
+        justify-content: center;
+    }
+
+    .image-container img {
+        height: 120px;
+        width: 120px;
+        margin-top: 60px;
+    }
+
+    .form-container {
+        width: 100%;
+        max-width: 400px;
+        padding: 20px;
+        margin: 20px;
+        top: 0;
+    }
+
+    .cybertron7-name {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .button-container {
+        width: 100%;
+        max-width: 300px;
+        margin: 20px auto;
+    }
+
+    .toggle-btn {
+        padding: 10px 30px;
+    }
+
+    .input-details {
+        width: 80%;
+        max-width: 300px;
+    }
+
+    .input-box input {
+        padding: 15px 35px 15px 15px;
+    }
+
+    .form-submit {
+        width: 100%;
+        max-width: 180px;
+        margin: 10px 60px;
+    }
+}

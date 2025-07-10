@@ -1,0 +1,63 @@
+[30-Mar-2025 05:38:55 UTC] PHP Error detected in userProfileSubmission.php
+[30-Mar-2025 05:38:55 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 62
+[30-Mar-2025 05:38:55 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 63
+[30-Mar-2025 05:38:55 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 64
+[30-Mar-2025 05:38:55 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 65
+[30-Mar-2025 05:38:55 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 66
+[30-Mar-2025 08:18:34 UTC] PHP Error detected in userProfileSubmission.php
+[30-Mar-2025 08:18:34 UTC] PHP Warning:  require_once(database/config.php): Failed to open stream: No such file or directory in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 15
+[30-Mar-2025 08:18:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'database/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 15
+[30-Mar-2025 08:21:28 UTC] PHP Error detected in userProfileSubmission.php
+[30-Mar-2025 08:21:28 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 62
+[30-Mar-2025 08:21:28 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 63
+[30-Mar-2025 08:21:28 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 64
+[30-Mar-2025 08:21:28 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 65
+[30-Mar-2025 08:21:28 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 66
+[30-Mar-2025 08:28:47 UTC] PHP Error detected in userProfileSubmission.php
+[30-Mar-2025 08:28:47 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 49
+[30-Mar-2025 08:28:47 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 50
+[30-Mar-2025 08:28:47 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 51
+[30-Mar-2025 08:28:47 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 52
+[30-Mar-2025 08:28:47 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadProfileSubmission.php on line 53
+[30-Mar-2025 08:30:05 UTC] PHP Error detected in userProfileSubmission.php
+[30-Mar-2025 08:48:51 UTC] PHP Error detected in userProfileSubmission.php
+[30-Mar-2025 15:49:03 UTC] PHP Error detected in userProfileSubmission.php
+[30-Mar-2025 16:12:18 UTC] PHP Error detected in userProfileSubmission.php
+[30-Mar-2025 16:39:56 UTC] PHP Error detected in userProfileSubmission.php
+[30-Mar-2025 16:40:42 UTC] PHP Error detected in userProfileSubmission.php
+[31-Mar-2025 06:26:25 UTC] PHP Error detected in userProfileSubmission.php
+[31-Mar-2025 06:26:38 UTC] PHP Error detected in userProfileSubmission.php
+[01-Apr-2025 10:38:07 UTC] PHP Error detected in userProfileSubmission.php
+[08-Apr-2025 10:35:59 UTC] PHP Error detected in userProfileSubmission.php
+[30-May-2025 16:10:56 UTC] PHP Error detected in userProfileSubmission.php
+[30-May-2025 16:11:08 UTC] PHP Error detected in userProfileSubmission.php
+[02-Jun-2025 18:34:15 UTC] PHP Error detected in userProfileSubmission.php
+[02-Jun-2025 19:41:47 UTC] PHP Error detected in userProfileSubmission.php
+[03-Jun-2025 12:32:40 UTC] PHP Error detected in userProfileSubmission.php
+[03-Jun-2025 18:44:22 UTC] PHP Error detected in userProfileSubmission.php
+[03-Jun-2025 19:30:07 UTC] PHP Error detected in userProfileSubmission.php
+[03-Jun-2025 19:34:24 UTC] PHP Error detected in userProfileSubmission.php
+[03-Jun-2025 19:34:51 UTC] PHP Error detected in userProfileSubmission.php
+[03-Jun-2025 20:01:09 UTC] PHP Error detected in userProfileSubmission.php
+[04-Jun-2025 15:40:29 UTC] PHP Error detected in userProfileSubmission.php
+[04-Jun-2025 15:48:26 UTC] PHP Error detected in userProfileSubmission.php
+[04-Jun-2025 16:59:19 UTC] PHP Error detected in userProfileSubmission.php
+[04-Jun-2025 17:01:54 UTC] PHP Error detected in userProfileSubmission.php
+[04-Jun-2025 17:04:40 UTC] PHP Error detected in userProfileSubmission.php
+[04-Jun-2025 17:14:36 UTC] PHP Error detected in userProfileSubmission.php
+[04-Jun-2025 17:16:52 UTC] PHP Error detected in userProfileSubmission.php
+[05-Jun-2025 13:43:57 UTC] PHP Error detected in userProfileSubmission.php
+[05-Jun-2025 15:26:36 UTC] PHP Error detected in userProfileSubmission.php
+[05-Jun-2025 17:17:27 UTC] PHP Error detected in userProfileSubmission.php
+[05-Jun-2025 17:35:51 UTC] PHP Error detected in userProfileSubmission.php
+[05-Jun-2025 17:51:02 UTC] PHP Error detected in userProfileSubmission.php
+[05-Jun-2025 18:37:40 UTC] PHP Error detected in userProfileSubmission.php
+[05-Jun-2025 18:37:47 UTC] PHP Error detected in userProfileSubmission.php
+[05-Jun-2025 18:38:38 UTC] PHP Error detected in userProfileSubmission.php
+[05-Jun-2025 18:51:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/cvbymwif7akv/public_html/test/form-1/userprofile/userprofile.php on line 2) in /home/cvbymwif7akv/public_html/test/form-1/userprofile/userprofile.php on line 170
+[06-Jun-2025 16:44:36 UTC] PHP Error detected in userProfileSubmission.php
+[19-Jun-2025 04:15:53 UTC] PHP Error detected in userProfileSubmission.php
+[27-Jun-2025 15:54:17 UTC] PHP Error detected in userProfileSubmission.php

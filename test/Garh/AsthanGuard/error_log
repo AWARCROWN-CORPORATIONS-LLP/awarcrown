@@ -1,0 +1,105 @@
+[15-Sep-2024 06:24:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/yxludmysfn0v/public_html/adminconsolecontrol/adminconsole/adminloginbox/adminloginconformation.php:25
+Stack trace:
+#0 /home/yxludmysfn0v/public_html/adminconsolecontrol/adminconsole/adminloginbox/adminloginconformation.php(25): mysqli->prepare()
+#1 {main}
+  thrown in /home/yxludmysfn0v/public_html/adminconsolecontrol/adminconsole/adminloginbox/adminloginconformation.php on line 25
+[15-Sep-2024 06:28:02 UTC] PHP Fatal error:  Uncaught ArgumentCountError: password_verify() expects exactly 2 arguments, 1 given in /home/yxludmysfn0v/public_html/adminconsolecontrol/adminconsole/adminloginbox/adminloginconformation.php:39
+Stack trace:
+#0 /home/yxludmysfn0v/public_html/adminconsolecontrol/adminconsole/adminloginbox/adminloginconformation.php(39): password_verify()
+#1 {main}
+  thrown in /home/yxludmysfn0v/public_html/adminconsolecontrol/adminconsole/adminloginbox/adminloginconformation.php on line 39
+[17-Sep-2024 05:54:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'positionapproval' in 'field list' in /home/yxludmysfn0v/public_html/adminconsolecontrol/adminconsole/adminloginbox/adminloginconformation.php:25
+Stack trace:
+#0 /home/yxludmysfn0v/public_html/adminconsolecontrol/adminconsole/adminloginbox/adminloginconformation.php(25): mysqli->prepare()
+#1 {main}
+  thrown in /home/yxludmysfn0v/public_html/adminconsolecontrol/adminconsole/adminloginbox/adminloginconformation.php on line 25
+[28-Mar-2025 19:56:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/cvbymwif7akv/public_html/test/adminconsolecontrol_new/adminconsolecontrol/config.php:9
+Stack trace:
+#0 /home/cvbymwif7akv/public_html/test/adminconsolecontrol_new/adminconsolecontrol/config.php(9): mysqli->__construct()
+#1 /home/cvbymwif7akv/public_html/test/adminconsolecontrol_new/adminconsolecontrol/adminloginbox/adminloginconformation.php(7): include('/home/cvbymwif7...')
+#2 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/adminconsolecontrol_new/adminconsolecontrol/config.php on line 9
+[29-Mar-2025 06:44:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/cvbymwif7akv/public_html/test/adminconsolecontrol/config.php:9
+Stack trace:
+#0 /home/cvbymwif7akv/public_html/test/adminconsolecontrol/config.php(9): mysqli->__construct()
+#1 /home/cvbymwif7akv/public_html/test/adminconsolecontrol/adminloginbox/adminloginconformation.php(7): include('/home/cvbymwif7...')
+#2 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/adminconsolecontrol/config.php on line 9
+[29-Mar-2025 06:46:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/cvbymwif7akv/public_html/test/adminconsolecontrol/config.php:9
+Stack trace:
+#0 /home/cvbymwif7akv/public_html/test/adminconsolecontrol/config.php(9): mysqli->__construct()
+#1 /home/cvbymwif7akv/public_html/test/adminconsolecontrol/adminloginbox/adminloginconformation.php(7): include('/home/cvbymwif7...')
+#2 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/adminconsolecontrol/config.php on line 9
+[29-Mar-2025 06:48:54 UTC] PHP Warning:  include(../config.php): Failed to open stream: No such file or directory in /home/cvbymwif7akv/public_html/test/adminconsolecontrol/adminloginbox/adminloginconformation.php on line 7
+[29-Mar-2025 06:48:54 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cvbymwif7akv/public_html/test/adminconsolecontrol/adminloginbox/adminloginconformation.php on line 7
+[29-Mar-2025 06:48:54 UTC] PHP Warning:  Undefined variable $conn in /home/cvbymwif7akv/public_html/test/adminconsolecontrol/adminloginbox/adminloginconformation.php on line 14
+[29-Mar-2025 06:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cvbymwif7akv/public_html/test/adminconsolecontrol/adminloginbox/adminloginconformation.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/adminconsolecontrol/adminloginbox/adminloginconformation.php on line 14
+[29-Mar-2025 07:32:51 UTC] PHP Warning:  include(../config.php): Failed to open stream: No such file or directory in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:32:51 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:32:51 UTC] PHP Warning:  Undefined variable $conn in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:32:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:33:02 UTC] PHP Warning:  include(../config.php): Failed to open stream: No such file or directory in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:33:02 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:33:02 UTC] PHP Warning:  Undefined variable $conn in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:33:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:33:15 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:33:15 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:33:15 UTC] PHP Warning:  Undefined variable $conn in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:33:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:34:05 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:34:05 UTC] PHP Warning:  include(https://cybertron7.in/test/database/config.php): Failed to open stream: no suitable wrapper could be found in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:34:05 UTC] PHP Warning:  include(): Failed opening 'https://cybertron7.in/test/database/config.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:34:05 UTC] PHP Warning:  Undefined variable $conn in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:34:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:35:42 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:35:42 UTC] PHP Warning:  include(https://cybertron7.in/test/database/config.php): Failed to open stream: no suitable wrapper could be found in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:35:42 UTC] PHP Warning:  include(): Failed opening 'https://cybertron7.in/test/database/config.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:35:42 UTC] PHP Warning:  Undefined variable $conn in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:35:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:35:48 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:35:48 UTC] PHP Warning:  include(https://cybertron7.in/test/database/config.php): Failed to open stream: no suitable wrapper could be found in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:35:48 UTC] PHP Warning:  include(): Failed opening 'https://cybertron7.in/test/database/config.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:35:48 UTC] PHP Warning:  Undefined variable $conn in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:36:08 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:36:08 UTC] PHP Warning:  include(https://cybertron7.in/test/database/config.php): Failed to open stream: no suitable wrapper could be found in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:36:08 UTC] PHP Warning:  include(): Failed opening 'https://cybertron7.in/test/database/config.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 7
+[29-Mar-2025 07:36:08 UTC] PHP Warning:  Undefined variable $conn in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:36:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 14
+[29-Mar-2025 07:36:22 UTC] PHP Warning:  include(security/unauthorisedaccess.php): Failed to open stream: No such file or directory in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/config.php on line 9
+[29-Mar-2025 07:36:22 UTC] PHP Warning:  include(): Failed opening 'security/unauthorisedaccess.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/config.php on line 9
+[29-Mar-2025 07:36:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cybertron7.Admindatabase' doesn't exist in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php:15
+Stack trace:
+#0 /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 15
+[29-Mar-2025 07:37:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cybertron7.Admindatabase' doesn't exist in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php:15
+Stack trace:
+#0 /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/Garh/AsthanGuard/adminloginconformation.php on line 15

@@ -1,0 +1,302 @@
+/* Reset margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    scroll-behavior: smooth;
+    background-color: #f5f7fa; /* Light gray-blue background */
+    color: #202124; /* Google’s dark gray text */
+}
+
+nav {
+    width: 100%;
+    height: 70px;
+    padding: 10px 30px;
+    position: fixed;
+    top: 0; /* Explicitly set top to 0 */
+    background: #ffffff; /* Clean white */
+    color: #5f6368; /* Medium gray text */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
+    transition: box-shadow 0.3s ease;
+    z-index: 1000;
+}
+
+nav:hover {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.logo-heading a {
+    color: #5f6368;
+    font-size: 28px;
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+aside {
+    width: 250px;
+    height: calc(100vh - 70px);
+    position: fixed;
+    background: #ffffff;
+    color: #5f6368;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 1px 0 3px rgba(0, 0, 0, 0.05);
+}
+
+.aside-buttons {
+    width: 100%;
+}
+
+.aside-buttons button {
+    padding: 15px;
+    border: none;
+    width: 100%;
+    height: 50px;
+    color: #5f6368;
+    font-size: 1em;
+    background: transparent;
+    text-align: left;
+    transition: background-color 0.3s ease, color 0.3s ease, padding-left 0.3s ease;
+}
+
+.aside-buttons button:hover {
+    background-color: #f1f3f4; /* Light gray hover */
+    color: #1a73e8; /* Google blue accent */
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+.Admin-title h2 {
+    font-size: 1.5em;
+    color: #202124;
+    margin-top: 150px;
+    font-family: 'Google Sans', 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+main {
+    margin-left: 270px;
+    padding: 20px;
+    padding-top: 90px; /* Adjusted to account for nav height (70px) + some extra space */
+}
+
+.Profile-session {
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    display: none;
+}
+
+.profile-content {
+    width: auto;
+    height: auto;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    padding: 40px;
+    background: #ffffff;
+    border-left: 4px solid #1a73e8; /* Blue accent */
+}
+
+#search-box {
+    width: 100%;
+    max-width: 350px;
+    margin-top: 20px; /* Reduced from 70px since main now has top padding */
+    padding: 12px;
+    font-size: 1em;
+    border: 1px solid #dadce0; /* Light gray border */
+    border-radius: 4px;
+    outline: none;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#search-box:focus {
+    border-color: #1a73e8; /* Blue accent */
+    box-shadow: 0 0 0 3px rgba(26, 115, 232, 0.2);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    #search-box {
+        width: calc(100% - 40px);
+    }
+    aside {
+        width: 100%;
+        height: auto;
+        margin-top: 0;
+        flex-direction: row;
+        overflow-x: auto;
+    }
+    .aside-buttons {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    main {
+        margin-left: 0; /* Remove left margin on small screens */
+        padding-top: 70px; /* Keep top padding for nav */
+    }
+}
+
+/* Users table styling */
+.usersdetails {
+    width: 100%;
+    max-width: 100%;
+    max-height: 500px;
+    overflow: auto;
+    margin-top: 20px;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+
+.usersdetails table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9em;
+    color: #202124;
+}
+
+.usersdetails table th,
+.usersdetails table td {
+    border: 1px solid #dadce0;
+    padding: 12px;
+    text-align: left;
+}
+
+.usersdetails table th {
+    background: #f8f9fa; /* Very light gray */
+    color: #5f6368;
+    font-weight: 500;
+    position: sticky;
+    top: 0; /* Adjusted to 0 to stick at top of container */
+    z-index: 10; /* Increased to ensure headers stay above content */
+}
+
+.usersdetails table tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+.usersdetails table tr:hover {
+    background-color: #f1f3f4;
+}
+
+/* Scrollbar customization */
+.usersdetails::-webkit-scrollbar {
+    width: 12px;
+}
+
+.usersdetails::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+.usersdetails::-webkit-scrollbar-thumb {
+    background: #dadce0;
+    border-radius: 6px;
+}
+
+/* Warning message styling */
+.warning {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fef7e0; /* Light yellow warning */
+    color: #d93025; /* Google red for errors */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    z-index: 1000;
+    text-align: center;
+    border-left: 4px solid #d93025;
+}
+
+/* Hide all other content */
+.hide-content main,
+.hide-content aside,
+.hide-content nav,
+.hide-content .Profile-session {
+    display: none;
+}
+.usersdetails {
+    width: 100%;
+    max-width: 100%;
+    max-height: none; /* Remove max-height to allow multiple tables */
+    overflow: auto;
+    margin-top: 20px;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+
+.usersdetails h3 {
+    margin: 10px 0;
+    color: #202124;
+    font-size: 1.2em;
+}
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+    background-color: #fff;
+    margin: 15% auto;
+    padding: 20px;
+    border-radius: 8px;
+    width: 70%;
+    max-width: 500px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.error {
+    color: #d32f2f;
+    margin: 0 0 15px 0;
+}
+
+.success {
+    color: #4CAF50;
+    margin: 0 0 15px 0;
+}
+
+.modal-btn {
+    background-color: #1a73e8;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.modal-btn:hover {
+    background-color: #1557b0;
+}
+
+/* Hide content if screen width is less than 1024px */
+.hide-content {
+    display: none !important;
+}
+
+.no-data {
+    text-align: center;
+    color: #888;
+    margin-top: 20px;
+}

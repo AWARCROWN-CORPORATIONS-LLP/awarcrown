@@ -1,0 +1,80 @@
+<link href="style.css" rel="stylesheet">
+    <div class=container>
+        
+    
+        <div class=filter-section><input id=searchInput placeholder="Search videos..."> <select id=categorySelect>
+                <option value="">All Categories
+            </select> <select id=sortSelect>
+                <option value=watched>Sort by Watched
+                <option value=title>Sort by Title
+                <option value=date>Sort by Date
+            </select> <button id=clearWatched>Clear Watched</button></div>
+        <div id=toast class=toast></div>
+        <section class=upload-section>
+            <form action=https://cybertron7.in/test/form-1/upload.awc id=uploadForm method=POST><input id=videoLink
+                    placeholder="Paste YouTube video link" name=videoLink required type=url> <button type=submit>Add
+                    Video</button></form>
+        </section>
+        <section class=video-list>
+            <h2>Video List</h2>
+            <div id=videoContainer></div>
+            <div id=pagination></div>
+        </section>
+        <div id=pagination><button id=prevPage disabled>Previous</button> <button id=nextPage>Next</button></div>
+    </div>
+    <div id=loader class=loader></div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const videoContainer = document.getElementById('videoContainer'); const uploadForm = document.getElementById('uploadForm'); const loader = document.getElementById('loader'); const searchInput = document.getElementById('searchInput'); const categorySelect = document.getElementById('categorySelect'); const sortSelect = document.getElementById('sortSelect'); const prevPageBtn = document.getElementById('prevPage'); const nextPageBtn = document.getElementById('nextPage'); const clearWatchedBtn = document.getElementById('clearWatched'); const toast = document.getElementById('toast'); const baseUrl = 'https://cybertron7.in/test/form-1/'; const videosPerPage = 6; let currentPage = 1; let videosToDisplay = []; let allVideos = []; let isYouTubeApiReady = !1; let categories = new Set(); const showLoader = () => { if (loader) loader.style.display = 'block' }; const hideLoader = () => { if (loader) loader.style.display = 'none' }; const showToast = (message, type = 'info') => { if (!toast) return; toast.textContent = message; toast.className = `toast ${type}`; toast.style.display = 'block'; setTimeout(() => { toast.style.display = 'none' }, 3000) }; const setCookie = (name, value, days) => { try { const expires = new Date(Date.now() + days * 864e5).toUTCString(); document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/; Secure; SameSite=Lax`; console.log(`Setting cookie: ${name}=${encodeURIComponent(value)}`) } catch (error) { console.error('Error setting cookie:', error); showToast('Error saving progress', 'error') } }; const getCookie = (name) => {
+                try {
+                    const value = `; ${document.cookie}`; const parts = value.split(`; ${name}=`); if (parts.length === 2) { const cookieValue = parts.pop().split(';').shift(); console.log(`Retrieved cookie: ${name}=${cookieValue}`); return decodeURIComponent(cookieValue) }
+                    console.log(`Cookie not found: ${name}`); return ''
+                } catch (error) { console.error('Error getting cookie:', error); return '' }
+            }; const extractYouTubeId = (url) => {
+                try {
+                    const regex = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/; const match = url.match(regex); if (!match) { throw new Error('Invalid YouTube URL') }
+                    return match[1]
+                } catch (error) { console.error('Error extracting YouTube ID:', error); showToast('Invalid video URL', 'error'); return '' }
+            }; const populateCategories = (videos) => { categories.clear(); videos.forEach(video => { if (video.category) { categories.add(video.category) } }); categorySelect.innerHTML = '<option value="">All Categories</option>'; categories.forEach(category => { const option = document.createElement('option'); option.value = category; option.textContent = category; categorySelect.appendChild(option) }) }; const fetchVideos = async () => {
+                showLoader(); try {
+                    const response = await fetch(`${baseUrl}videos.json`, { method: 'GET', headers: { 'Accept': 'application/json', 'Cache-Control': 'no-cache' }, credentials: 'same-origin' }); if (!response.ok) { throw new Error(`HTTP error: ${response.status} ${response.statusText}`) }
+                    allVideos = await response.json(); videosToDisplay = allVideos; populateCategories(allVideos); if (isYouTubeApiReady) { filterAndDisplayVideos() }
+                } catch (error) { console.error('Error fetching videos:', error); videoContainer.innerHTML = '<p>Failed to load videos. Please try again later.</p>'; showToast('Error loading videos', 'error') } finally { hideLoader() }
+            }; const filterAndDisplayVideos = () => {
+                let filteredVideos = [...allVideos]; const searchTerm = searchInput.value.toLowerCase(); if (searchTerm) { filteredVideos = filteredVideos.filter(video => video.title.toLowerCase().includes(searchTerm)) }
+                const selectedCategory = categorySelect.value; if (selectedCategory) { filteredVideos = filteredVideos.filter(video => video.category === selectedCategory) }
+                const sortBy = sortSelect.value; filteredVideos.sort((a, b) => {
+                    if (sortBy === 'watched') { const aWatched = getCookie(`video_${a.id}_watched`) === 'true'; const bWatched = getCookie(`video_${b.id}_watched`) === 'true'; return aWatched - bWatched } else if (sortBy === 'title') { return a.title.localeCompare(b.title) } else if (sortBy === 'date') { return new Date(b.date) - new Date(a.date) }
+                    return 0
+                }); const totalPages = Math.ceil(filteredVideos.length / videosPerPage); currentPage = Math.min(currentPage, totalPages || 1); const startIndex = (currentPage - 1) * videosPerPage; videosToDisplay = filteredVideos.slice(startIndex, startIndex + videosPerPage); prevPageBtn.disabled = currentPage === 1; nextPageBtn.disabled = currentPage === totalPages; displayVideos(videosToDisplay)
+            }; const displayVideos = (videos) => {
+                try {
+                    videoContainer.innerHTML = ''; if (videos.length === 0) { videoContainer.innerHTML = '<p>No videos found.</p>'; return }
+                    videos.forEach(video => {
+                        const videoItem = document.createElement('div'); const isWatched = getCookie(`video_${video.id}_watched`) === 'true'; videoItem.className = `video-item ${isWatched ? 'watched' : ''}`; const videoId = extractYouTubeId(video.link); if (!videoId) { throw new Error(`Invalid video ID for video: ${video.title}`) }
+                        const embedUrl = `https://www.youtube.com/embed/${videoId}?enablejsapi=1&autohide=1&modestbranding=1&rel=0&showinfo=0&iv_load_policy=3`; const savedProgress = parseFloat(getCookie(`video_${video.id}_progress`)) || 0; videoItem.innerHTML = `
+                    <iframe src="${embedUrl}" frameborder="0" allowfullscreen></iframe>
+                    <div class="video-info">
+                        <h3>${video.title}</h3>
+                        <p>Progress: <span id="progress_${video.id}">${Math.round(savedProgress)}%</span></p>
+                    </div>
+                `; videoContainer.appendChild(videoItem); const player = new YT.Player(videoItem.querySelector('iframe'), { events: { 'onError': (error) => { console.error('YouTube Player error:', error); showToast('Error playing video', 'error') }, 'onStateChange': (event) => { if (event.data === YT.PlayerState.PLAYING) { trackProgress(video.id, event.target) } } } })
+                    })
+                } catch (error) { console.error('Error displaying videos:', error); videoContainer.innerHTML = '<p>Error displaying videos.</p>'; showToast('Error displaying videos', 'error') }
+            }; const trackProgress = (videoId, player) => {
+                let interval; try {
+                    interval = setInterval(() => {
+                        const duration = player.getDuration(); const currentTime = player.getCurrentTime(); const progress = duration ? (currentTime / duration) * 100 : 0; const progressElement = document.getElementById(`progress_${videoId}`); if (progressElement) { progressElement.textContent = `${Math.round(progress)}%` }
+                        setCookie(`video_${videoId}_progress`, progress.toFixed(2), 30); if (progress >= 80) { setCookie(`video_${videoId}_watched`, 'true', 30); const videoItem = document.querySelector(`#progress_${videoId}`)?.closest('.video-item'); if (videoItem) { videoItem.classList.add('watched') } }
+                    }, 1000); player.addEventListener('onStateChange', (event) => { if (event.data === YT.PlayerState.PAUSED || event.data === YT.PlayerState.ENDED) { clearInterval(interval) } })
+                } catch (error) { console.error('Error tracking progress:', error); clearInterval(interval); showToast('Error tracking video progress', 'error') }
+            }; uploadForm.addEventListener('submit', async (e) => {
+                e.preventDefault(); showLoader(); const formData = new FormData(uploadForm); try {
+                    const response = await fetch(`${baseUrl}upload.awc`, { method: 'POST', body: formData, headers: { 'Accept': 'application/json' }, redirect: 'follow' }); if (!response.ok) { const errorText = await response.text(); throw new Error(`Upload failed: ${response.status} ${errorText}`) }
+                    const result = await response.json(); if (result.success) { showToast('Video uploaded successfully', 'success'); fetchVideos(); uploadForm.reset() } else { throw new Error(result.message || 'Upload failed') }
+                } catch (error) { console.error('Upload error:', error); showToast(`Error uploading video: ${error.message}`, 'error') } finally { hideLoader() }
+            }); searchInput.addEventListener('input', () => { currentPage = 1; filterAndDisplayVideos() }); categorySelect.addEventListener('change', () => { currentPage = 1; filterAndDisplayVideos() }); sortSelect.addEventListener('change', () => { filterAndDisplayVideos() }); prevPageBtn.addEventListener('click', () => { if (currentPage > 1) { currentPage--; filterAndDisplayVideos() } }); nextPageBtn.addEventListener('click', () => { currentPage++; filterAndDisplayVideos() }); clearWatchedBtn.addEventListener('click', () => { try { allVideos.forEach(video => { setCookie(`video_${video.id}_watched`, '', -1); setCookie(`video_${video.id}_progress`, '', -1) }); showToast('Watched history cleared', 'success'); filterAndDisplayVideos() } catch (error) { console.error('Error clearing watched history:', error); showToast('Error clearing watched history', 'error') } }); try { const tag = document.createElement('script'); tag.src = 'https://www.youtube.com/iframe_api'; tag.onerror = () => { console.error('Failed to load YouTube API'); showToast('Failed to load YouTube API', 'error'); videoContainer.innerHTML = '<p>Unable to load video player.</p>' }; document.head.appendChild(tag) } catch (error) { console.error('Error loading YouTube API:', error); showToast('Error loading video player', 'error') }
+            window.onYouTubeIframeAPIReady = () => { isYouTubeApiReady = !0; if (videosToDisplay.length > 0) { filterAndDisplayVideos() } }; fetchVideos()
+        })
+
+    </script>

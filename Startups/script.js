@@ -1,0 +1,1 @@
+document.addEventListener("scroll",(()=>{document.querySelectorAll(".scroll-animation").forEach((e=>{const t=e.getBoundingClientRect();t.top<window.innerHeight&&t.bottom>=0?e.classList.add("visible"):e.classList.remove("visible")}))}));

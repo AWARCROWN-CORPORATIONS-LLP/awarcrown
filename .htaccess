@@ -1,0 +1,84 @@
+# Enable symbolic links and prevent directory listing
+Options +FollowSymLinks -Indexes -ExecCGI -Includes
+
+# Specify custom error pages
+ErrorDocument 500 /500.shtml
+ErrorDocument 502 /500.shtml
+ErrorDocument 503 /500.shtml
+ErrorDocument 504 /500.shtml
+ErrorDocument 404 /404.shtml
+
+# Block access to 403.shtml from a specific IP
+<Files 403.shtml>
+    Order Allow,Deny
+    Allow from all
+    Deny from 198.12.238.178
+</Files>
+
+# Enable mod_rewrite (Only one instance)
+RewriteEngine On
+
+# Rewrite .awc requests to .php files internally
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)\.awc$ $1.php [L]
+
+# Redirect .php to .awc for clean URLs
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteRule ^ %1.awc [R=301,L]
+
+# Deny access to config and sensitive files
+<FilesMatch "(config\.php|database\.php|.env|composer\.(json|lock)|package\.json|yarn\.lock|phpunit\.xml|readme.*|license.*|install\.php)">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+
+# Deny access to backup and log files
+<FilesMatch "\.(log|bak)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Block access to hidden system files (like .git, .htpasswd)
+<FilesMatch "^\.(htaccess|htpasswd|git|svn|env|DS_Store)">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Block direct access to sensitive Vanguard folders
+RewriteRule ^Vanguard/(core|logs|cache|config|database)\b - [F,L,NC]
+
+# Block hotlinking (Allow error pages to load resources)
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^https://(www\.)?cybertron7\.in/ [NC,OR]
+RewriteCond %{REQUEST_URI} ^/(500\.shtml|404\.shtml|403\.shtml)$ [NC]
+RewriteRule \.(jpg|jpeg|png|gif)$ - [F,L]
+
+# Block common malicious bots and crawlers
+RewriteCond %{HTTP_USER_AGENT} (HTTrack|wget|curl|java|nikto|sqlmap|scanner|crawler|libwww-perl|Go-http-client|PostmanRuntime) [NC]
+RewriteRule .* - [F,L]
+
+# Prevent clickjacking
+#Header always set X-Frame-Options "DENY"
+
+
+# Limit allowed request methods (prevents method-based attacks)
+RewriteCond %{REQUEST_METHOD} !^(GET|POST|HEAD)$
+RewriteRule .* - [F]
+
+# Block access to cPanel unless from allowed IP
+RewriteCond %{REQUEST_URI} ^/cpanel [NC]
+RewriteCond %{REMOTE_ADDR} !^YOUR.IP.HERE$ [NC]
+RewriteRule .* - [F,L]
+
+# Rate-limit requests to prevent brute-force attacks
+<IfModule mod_reqtimeout.c>
+    RequestReadTimeout header=20-40,MinRate=500 body=20-40,MinRate=500
+</IfModule>
+AddType application/x-httpd-php .awc
+<Files "upload.php">
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "POST, OPTIONS"
+    Header set Access-Control-Allow-Headers "Content-Type"
+</Files>

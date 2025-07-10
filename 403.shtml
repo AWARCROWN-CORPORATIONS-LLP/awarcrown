@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Vanguard 403</title>
+        <link rel="icon" href="https://cybertron7.in/images/black_logo.png" />
+    <link rel="stylesheet" href="error-page.css">
+    <meta name="robots" content="noindex, nofollow">
+</head>
+<style>
+    body {
+        font-family: "Inter", system-ui, -apple-system, sans-serif;
+        background-color: #fff;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    header {
+        background-color: #1f1f5a;
+        color: #fff;
+        padding: 15px;
+    }
+
+    .header-content {
+        display: flex;
+        align-items : center;
+    }
+
+    .logo {
+        width: 60px;
+        height : 60px;
+        margin-right : 10px;
+    }
+
+    .cmp-name {
+        font-size: 28px;
+        font-weight: 700;
+        color: #ffff;
+        padding: 0;
+    }
+
+    .error-container {
+        max-width: 600px;
+        margin: 41px auto;
+    }
+
+    .logo-error {
+        width: 200px;
+        margin-bottom: 20px;
+    }
+
+    .error-code {
+        font-size: 50px;
+        color: #dc3545;
+        margin-bottom : 1rem;
+    }
+
+    .error-message {
+        font-size: 24px;
+        color: #6c757d;
+        margin-bottom : 1rem;
+    }
+
+    .error-description {
+        font-size: 18px;
+        color: #6c757d;
+        margin-top: 10px;
+    }
+
+    a {
+        color: #007bff;
+        text-decoration: none;
+    }
+
+    footer {
+        margin-top: auto;
+        background-color: #1f1f5a;
+        color: #d0dfe7;
+        padding: 37px;
+        text-align: center;
+        padding-bottom : 25px;
+    }
+
+    footer p {
+        margin-top: -10px;
+    }
+
+    footer a {
+        color: #007bff;
+        text-decoration: none;
+    }
+
+    footer a:hover {
+        text-decoration: underline;
+    }
+
+    .footer-social a {
+        margin: 0 10px;
+    }
+
+    .footer-social img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .footer-bottom {
+        margin-top: 20px;
+    }
+
+    .footer-bottom p {
+        margin: 0;
+        font-size: 14px;
+    }
+</style>
+
+<body>
+    <header>
+        <div class="header-content"><img src="https://cybertron7.in/images/logo-2.png" alt="Cybertron7 logo"
+                class="logo">
+            <h1 class="cmp-name">Awarcrown corporations</h1>
+        </div>
+    </header>
+    <div class="error-container"><img
+            src="https://cybertron7.in/images/403-error-forbidden-with-police-concept-illustration_114360-1904.avif"
+            alt="image" class="logo-error">
+        <div class="error-msg-img-container">
+            <div class="error-code">Vanguard 403</div>
+        </div>
+        <div class="error-message">You don't have permission to access this resource<br><b>Please try again later or<a href="https://cybertron7.in"> return to the homepage</b>.</a></div>
+        For further assistance, <a href="mailto:support@cybertron7.in">contact support</a>.
+    </div>
+    <footer>
+        <p>&copy; 2025 Awarcrown corporations. All rights reserved.</p>
+        <div class="footer-social"><a href="https://www.instagram.com/awarcrown/" target="_blank"><img
+                    src="https://cybertron7.in/images/instagram.svg" alt="Instagram"></a><a
+                href="https://chat.whatsapp.com/JTHXEzPfPad2oLl94D87WD" target="_blank"><img
+                    src="https://cybertron7.in/images/whatsapp.svg" alt="Whatsapp"></a><a
+                href="https://www.linkedin.com/company/awarcrown/" target="_blank"><img
+                    src="https://cybertron7.in/images/linkedin.svg" alt="LinkedIn"></a></div>
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,28 @@
+CREATE TABLE internship_applications (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    application_id VARCHAR(20) UNIQUE,
+    email VARCHAR(255),
+    contact VARCHAR(15),
+    whatsapp VARCHAR(15),
+    first_name VARCHAR(100),
+    last_name VARCHAR(100),
+    college VARCHAR(255),
+    year_study INT,
+    branch VARCHAR(100),
+    position VARCHAR(50),
+    domain VARCHAR(50),
+    languages VARCHAR(255),
+    reason TEXT,
+    duration VARCHAR(50),
+    status ENUM('pending', 'approved', 'rejected') DEFAULT 'pending',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE email_queue (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    to_email VARCHAR(255),
+    subject VARCHAR(255),
+    message TEXT,
+    status ENUM('pending', 'sent', 'failed') DEFAULT 'pending',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

@@ -1,0 +1,34 @@
+2025-03-30 12:43:11 - File upload error
+2025-03-30 15:48:05 - File upload error
+2025-03-30 16:33:40 - File upload error
+2025-03-30 16:33:51 - File upload error
+2025-04-01 10:29:35 - File upload error
+2025-04-01 10:29:47 - Image dimensions too small. Minimum size is 320x320 pixels.
+2025-05-20 11:33:19 - File upload error
+2025-06-03 12:30:39 - File upload error
+2025-06-05 13:42:53 - File upload error
+2025-06-05 17:09:03 - File upload error
+2025-06-05 17:09:17 - File upload error
+2025-06-05 17:18:32 - File upload error
+2025-06-05 17:32:02 - File upload error
+2025-06-05 17:33:03 - File upload error
+2025-06-05 17:33:14 - File upload error
+2025-06-05 17:42:43 - File upload error
+2025-06-05 17:42:57 - File upload error
+2025-06-05 17:46:19 - Image dimensions too small. Minimum size is 320x320 pixels.
+2025-06-05 17:46:42 - Image dimensions too small. Minimum size is 320x320 pixels.
+2025-06-05 17:48:21 - Image dimensions too small. Minimum size is 320x320 pixels.
+2025-06-05 17:49:27 - Image dimensions too small. Minimum size is 320x320 pixels.
+2025-06-05 17:50:33 - Image dimensions too small. Minimum size is 320x320 pixels.
+2025-06-05 18:31:20 - File upload error
+2025-06-05 18:31:33 - File upload error
+2025-06-05 18:40:14 - File upload error
+2025-06-05 18:40:24 - File upload error
+2025-06-05 18:41:34 - File upload error
+2025-06-05 18:41:43 - File upload error
+2025-06-05 18:43:05 - File upload error
+2025-06-05 18:46:12 - File upload error
+2025-06-05 18:47:00 - File upload error
+2025-06-05 18:47:12 - File upload error
+2025-06-05 18:48:46 - File upload error
+2025-06-06 16:33:41 - File upload error

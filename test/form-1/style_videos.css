@@ -1,0 +1,284 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', 'Arial', sans-serif;
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 0;
+  color: #030303;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.sidebar {
+  width: 250px;
+  background: #fff;
+  padding: 16px;
+  border-right: 1px solid #e8e8e8;
+  height: 100vh;
+  position: fixed;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar ul li {
+  padding: 8px 0;
+}
+
+.sidebar ul li a {
+  color: #030303;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.sidebar ul li a:hover,
+.sidebar ul li a.active {
+  color: #1da1f2;
+}
+
+.main-content {
+  margin-left: 250px;
+  width: calc(100% - 250px);
+  padding: 16px;
+}
+
+header {
+  background: #fff;
+  border-bottom: 1px solid #e8e8e8;
+  padding: 12px 16px;
+  text-align: left;
+  margin-bottom: 16px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 400;
+  color: #030303;
+}
+
+header p {
+  margin: 4px 0 0;
+  font-size: 14px;
+  color: #606060;
+}
+
+.video-list {
+  background: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.video-list h2 {
+  margin: 0 0 16px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #030303;
+}
+
+.video-item {
+  display: grid;
+  gap: 16px;
+  padding: 16px 0;
+  border-bottom: 1px solid #e8e8e8;
+  align-items: center;
+}
+
+.video-item:last-child {
+  border-bottom: none;
+}
+
+.video-item iframe {
+  width: 660px;
+  height: 202px;
+  border: none;
+  border-radius: 4px;
+}
+
+.video-info {
+  flex: 1;
+}
+
+.video-info h3 {
+  margin: 0 0 4px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #030303;
+  line-height: 22px;
+}
+
+.video-info p {
+  margin: 0;
+  font-size: 13px;
+  color: #606060;
+  line-height: 18px;
+}
+
+.watched {
+  background: #f1f1f1;
+}
+
+#pagination {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 16px 0;
+}
+
+#pagination button {
+  padding: 8px 16px;
+  background: #fff;
+  color: #030303;
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+#pagination button:hover {
+  background: #f1f1f1;
+}
+
+.loader {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.7);
+  z-index: 1000;
+}
+
+.loader::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 24px;
+  height: 24px;
+  border: 3px solid #606060;
+  border-top: 3px solid #ff4500;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: translate(-50%, -50%) rotate(0deg); }
+  100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+.filter-section {
+  display: flex;
+  gap: 8px;
+  padding: 16px;
+  background: #fff;
+  border-bottom: 1px solid #e8e8e8;
+  border-radius: 8px 8px 0 0;
+  flex-wrap: wrap;
+}
+
+.filter-section input,
+.filter-section select,
+.filter-section button {
+  padding: 8px;
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  font-size: 14px;
+  background: #fff;
+}
+
+.filter-section input:focus,
+.filter-section select:focus {
+  border-color: #1da1f2;
+  outline: none;
+}
+
+.filter-section button {
+  background: #ff4500;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.filter-section button:hover {
+  background: #e03e00;
+}
+
+.toast {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #fff;
+  z-index: 1000;
+}
+
+.toast.info {
+  background: #1da1f2;
+}
+
+.toast.success {
+  background: #068644;
+}
+
+.toast.error {
+  background: #c00;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 8px;
+  }
+  .sidebar {
+    display: none;
+  }
+  .main-content {
+    margin-left: 0;
+    width: 100%;
+  }
+  header {
+    padding: 8px;
+  }
+  .video-item {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .video-item iframe {
+    width: 400px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+  }
+  .filter-section {
+    padding: 8px;
+  }
+}
+
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 20px;
+  }
+  header p {
+    font-size: 12px;
+  }
+  .video-info h3 {
+    font-size: 14px;
+  }
+  .video-info p {
+    font-size: 12px;
+  }
+}

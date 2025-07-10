@@ -1,0 +1,67 @@
+[31-May-2025 12:24:59 UTC] PHP Warning:  Undefined array key "intern_id" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 93
+[31-May-2025 12:24:59 UTC] PHP Warning:  Undefined array key "name" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 94
+[31-May-2025 12:24:59 UTC] PHP Warning:  Undefined array key "email" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 95
+[31-May-2025 12:24:59 UTC] PHP Warning:  Undefined array key "phone" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 96
+[31-May-2025 12:24:59 UTC] PHP Warning:  Undefined array key "address" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 97
+[31-May-2025 12:24:59 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 98
+[31-May-2025 12:24:59 UTC] PHP Warning:  Undefined array key "guardian_phone" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 99
+[31-May-2025 12:24:59 UTC] PHP Warning:  Undefined array key "college_name" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 100
+[31-May-2025 12:24:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 121
+[31-May-2025 12:25:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'intern_id' in 'SELECT' in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php:132
+Stack trace:
+#0 /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php(132): PDO->query()
+#1 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 132
+[31-May-2025 12:25:47 UTC] PHP Warning:  Undefined array key "intern_id" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 93
+[31-May-2025 12:25:47 UTC] PHP Warning:  Undefined array key "name" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 94
+[31-May-2025 12:25:47 UTC] PHP Warning:  Undefined array key "email" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 95
+[31-May-2025 12:25:47 UTC] PHP Warning:  Undefined array key "phone" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 96
+[31-May-2025 12:25:47 UTC] PHP Warning:  Undefined array key "address" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 97
+[31-May-2025 12:25:47 UTC] PHP Warning:  Undefined array key "guardian_name" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 98
+[31-May-2025 12:25:47 UTC] PHP Warning:  Undefined array key "guardian_phone" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 99
+[31-May-2025 12:25:47 UTC] PHP Warning:  Undefined array key "college_name" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 100
+[31-May-2025 12:25:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 121
+[31-May-2025 12:32:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php:276
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 276
+[31-May-2025 12:37:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php:276
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 276
+[31-May-2025 13:37:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php:276
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 276
+[31-May-2025 13:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php:276
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 276
+[31-May-2025 13:41:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php:276
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 276
+[31-May-2025 13:57:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php:276
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 276
+[31-May-2025 14:06:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/cvbymwif7akv/public_html/test/awarcrown_interns/NDA_Access.php:340
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/awarcrown_interns/NDA_Access.php on line 340
+[31-May-2025 14:16:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'application_id' in 'SELECT' in /home/cvbymwif7akv/public_html/test/awarcrown_interns/NDA_Access.php:32
+Stack trace:
+#0 /home/cvbymwif7akv/public_html/test/awarcrown_interns/NDA_Access.php(32): PDOStatement->execute()
+#1 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/awarcrown_interns/NDA_Access.php on line 32
+[31-May-2025 15:15:01 UTC] PHP Warning:  Undefined array key "resume_path" in /home/cvbymwif7akv/public_html/test/awarcrown_interns/NDA_Access.php on line 176
+[04-Jul-2025 04:55:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php:201
+Stack trace:
+#0 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/awarcrown_interns/api.php on line 201

@@ -1,0 +1,153 @@
+[2025-05-16 17:05:40] Successfully fetched and stored 20 new headlines for 2025-05-16.
+[2025-05-16 17:12:48] Stored 16 new headlines for 2025-05-16.
+[2025-05-16 17:13:33] Failed to fetch image: https://i-invdn-com.investing.com/news/LYNXMPED1M087_M.jpg
+[2025-05-16 17:13:33] Failed to fetch image: https://i-invdn-com.investing.com/news/LYNXMPED1M087_M.jpg
+[2025-05-16 17:13:33] Stored 19 new headlines for 2025-05-16.
+[2025-05-16 17:15:12] Stored 20 new headlines for 2025-05-16.
+[2025-05-16 17:15:59] Stored 6 new headlines for 2025-05-16.
+[2025-05-16 17:25:49] Invalid image URL: 
+[2025-05-16 17:25:59] Failed to fetch image: https://kj1bcdn.b-cdn.net/media/103799/pm-modi-1.jpg, HTTP 0, Connection timed out after 10001 milliseconds
+[2025-05-16 17:26:03] Failed to fetch image: https://us-west-2-gw-2.yardbarker.com/images/yb_white_on_black_medium.jpg, HTTP 0, SSL: no alternative certificate subject name matches target hostname 'us-west-2-gw-2.yardbarker.com'
+[2025-05-16 17:26:03] Failed to fetch image: https://www.heraldscotland.com/resources/images/19456633/?htype=0&type=app, HTTP 0, Recv failure: Connection reset by peer
+[2025-05-16 17:26:06] Stored 18 new headlines for 2025-05-16.
+[2025-05-16 17:28:29] Failed to fetch image: https://www.leaderlive.co.uk/resources/images/19415175/?htype=127&type=app, HTTP 0, Recv failure: Connection reset by peer
+[2025-05-16 17:28:29] Invalid image URL: 
+[2025-05-16 17:28:29] Invalid image URL: 
+[2025-05-16 17:28:32] Stored 20 new headlines for 2025-05-16.
+[2025-05-16 17:33:38] Failed to fetch image: https://www.wirralglobe.co.uk/resources/images/17500978/?htype=0&type=app, HTTP 0, Recv failure: Connection reset by peer
+[2025-05-16 17:33:39] Invalid image URL: 
+[2025-05-16 17:33:39] Failed to fetch image: https://reneweconomy.com.au/wp-content/uploads/2024/11/Stockyard-Hill-Wind-Farm-components-delivery-optimised-382x250.jpg, HTTP 403, The requested URL returned error: 403
+[2025-05-16 17:33:39] Stored 17 new headlines for 2025-05-16.
+[2025-05-16 17:33:43] Invalid image URL: 
+[2025-05-16 17:33:43] Failed to fetch image: https://reneweconomy.com.au/wp-content/uploads/2024/11/Stockyard-Hill-Wind-Farm-components-delivery-optimised-382x250.jpg, HTTP 403, The requested URL returned error: 403
+[2025-05-16 17:33:43] Stored 11 new headlines for 2025-05-16.
+[2025-05-16 17:35:24] Invalid image URL: 
+[2025-05-16 17:35:24] Invalid image URL: 
+[2025-05-16 17:35:28] Failed to fetch image: https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2025/05/16/AHMcqzOkvIWxk514cdKg.jpg, HTTP 403, The requested URL returned error: 403
+[2025-05-16 17:35:30] Invalid image URL: 
+[2025-05-16 17:35:31] Invalid image URL: 
+[2025-05-16 17:35:35] Stored 19 new headlines for 2025-05-16.
+[2025-05-16 17:39:22] Invalid image URL: 
+[2025-05-16 17:39:29] Stored 19 new headlines for 2025-05-16.
+[2025-05-16 17:39:54] Invalid image URL: 
+[2025-05-16 17:39:55] Stored 12 new headlines for 2025-05-16.
+[2025-05-16 17:42:01] Invalid image URL: 
+[2025-05-16 17:42:08] Invalid image URL: 
+[2025-05-16 17:42:08] Invalid image URL: 
+[2025-05-16 17:42:08] Invalid image URL: 
+[2025-05-16 17:42:08] Stored 17 new headlines for 2025-05-16.
+[2025-05-16 17:43:37] Failed to fetch image: https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/post_attachments/wp-content/uploads/2019/09/policy-bazar.jpg, HTTP 403, The requested URL returned error: 403
+[2025-05-16 17:43:37] Invalid image URL: 
+[2025-05-16 17:43:37] Invalid image URL: 
+[2025-05-16 17:43:38] Failed to fetch image: https://romapress.net/wp-content/uploads/2025/04/saelemaekers-1-scaled.jpg, HTTP 403, The requested URL returned error: 403
+[2025-05-16 17:43:41] Invalid image URL: 
+[2025-05-16 17:43:42] Invalid image URL: 
+[2025-05-16 17:43:42] Stored 20 new headlines for 2025-05-16.
+[2025-05-16 17:44:31] Invalid image URL: 
+[2025-05-16 17:44:33] Invalid image URL: 
+[2025-05-16 17:44:33] Invalid image URL: 
+[2025-05-16 17:44:35] Stored 16 new headlines for 2025-05-16.
+[2025-05-16 17:44:58] Invalid image URL: 
+[2025-05-16 17:44:59] Invalid image URL: 
+[2025-05-16 17:44:59] Invalid image URL: 
+[2025-05-16 17:44:59] Stored 12 new headlines for 2025-05-16.
+[2025-05-16 17:46:56] Invalid image URL: 
+[2025-05-16 17:46:56] Invalid image URL: 
+[2025-05-16 17:47:00] Invalid image URL: 
+[2025-05-16 17:47:04] Failed to fetch image: https://www.leaderlive.co.uk/resources/images/18495777/?htype=0&type=app, HTTP 0, Recv failure: Connection reset by peer
+[2025-05-16 17:47:05] Failed to fetch image: https://romapress.net/wp-content/uploads/2025/02/pellegrini1-2-scaled.jpg, HTTP 403, The requested URL returned error: 403
+[2025-05-16 17:47:05] Invalid image URL: 
+[2025-05-16 17:47:07] Invalid image URL: 
+[2025-05-16 17:47:07] Invalid image URL: 
+[2025-05-16 17:47:07] Stored 18 new headlines for 2025-05-16.
+[2025-05-16 17:49:10] Invalid image URL: 
+[2025-05-16 17:49:11] Stored 20 new headlines for 2025-05-16.
+[2025-05-16 17:53:10] Failed to fetch image: https://cdn4.theroar.com.au/wp-content/uploads/2024/06/Jack-Doohan-1200x675.jpg, HTTP 403, The requested URL returned error: 403
+[2025-05-16 17:53:10] Stored 20 new headlines for 2025-05-16.
+[2025-05-16 17:55:54] Invalid image URL: 
+[2025-05-16 17:55:55] Invalid image URL: 
+[2025-05-16 17:55:56] Invalid image URL: 
+[2025-05-16 17:56:00] Invalid image URL: 
+[2025-05-16 17:56:00] Invalid image URL: 
+[2025-05-16 17:56:00] Invalid image URL: 
+[2025-05-16 17:56:00] Invalid image URL: 
+[2025-05-16 17:56:01] Failed to fetch image: https://www.yorkpress.co.uk/resources/images/19454029/?htype=0&type=app, HTTP 0, Recv failure: Connection reset by peer
+[2025-05-16 17:56:02] Stored 19 new headlines for 2025-05-16.
+[2025-05-17 06:20:35] Invalid image URL: 
+[2025-05-17 06:20:37] Invalid image URL: 
+[2025-05-17 06:20:37] Invalid image URL: 
+[2025-05-17 06:20:37] Invalid image URL: 
+[2025-05-17 06:20:39] Invalid image URL: 
+[2025-05-17 06:20:39] Failed to fetch image: https://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/2/b3/2b3be6fe-2388-405f-b9f7-e9b75985c998/68278323b6bb4.image.jpg?crop=1763%2C926%2C0%2C125&order=crop%2Cresize&resize=1200%2C630, HTTP 200, HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)
+[2025-05-17 06:20:39] Invalid image URL: 
+[2025-05-17 06:20:41] Invalid image URL: 
+[2025-05-17 06:20:41] Stored 19 new headlines for 2025-05-17.
+[2025-05-17 06:20:41] Invalid image URL: 
+[2025-05-17 06:20:41] Stored 0 new headlines for 2025-05-17.
+[2025-05-17 06:22:53] Invalid image URL: 
+[2025-05-17 06:22:55] Invalid image URL: 
+[2025-05-17 06:22:59] Stored 19 new headlines for 2025-05-17.
+[2025-06-03 16:20:48] Invalid image URL: 
+[2025-06-03 16:20:50] Failed to fetch image: https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2025/06/03/ufEYZxYvIczWhOxAl6Wi.jpg, HTTP 403, The requested URL returned error: 403
+[2025-06-03 16:20:50] Invalid image URL: 
+[2025-06-03 16:20:54] Failed to fetch image: https://www.fool.com.au/wp-content/uploads/2024/08/chip-1200x675.jpg, HTTP 403, The requested URL returned error: 403
+[2025-06-03 16:20:56] Stored 17 new headlines for 2025-06-03.
+[2025-06-04 05:51:51] Failed to fetch image: https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg, HTTP 403, The requested URL returned error: 403
+[2025-06-04 05:51:51] Failed to fetch image: https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg, HTTP 403, The requested URL returned error: 403
+[2025-06-04 05:51:51] Failed to fetch image: https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg, HTTP 403, The requested URL returned error: 403
+[2025-06-04 05:51:51] Invalid image URL: 
+[2025-06-04 05:52:36] Failed to fetch image: https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/06/03/1763208-rishi-sunak.jpg?im=Resize%3D%28400%29, HTTP 0, Resolving timed out after 5001 milliseconds
+[2025-06-04 05:52:38] Failed to fetch image: https://www.sltrib.com/resizer/v2/https:%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FBAUMZPFXMZHJVF76F5QO4QCYAU.JPG?auth=fb5e442c62f5da108b3ed2df5f5103daf0db50886880302605d24628a0129257&width=1200, HTTP 403, The requested URL returned error: 403
+[2025-06-04 05:52:58] Failed to fetch image: https://cdn.abcotvs.com/dip/images/16645782_inglewood-crash-clean-TN-img.jpg?w=1600, HTTP 0, Resolving timed out after 5001 milliseconds
+[2025-06-04 05:52:58] Stored 20 new headlines for 2025-06-04.
+[2025-06-04 05:57:31] Invalid image URL: 
+[2025-06-04 05:57:32] Invalid image URL: 
+[2025-06-04 05:57:33] Invalid image URL: 
+[2025-06-04 05:57:33] Failed to fetch image: https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg, HTTP 403, The requested URL returned error: 403
+[2025-06-04 05:57:34] Invalid image URL: 
+[2025-06-04 05:57:55] Invalid image URL: 
+[2025-06-04 05:57:55] Invalid image URL: 
+[2025-06-04 05:57:55] Invalid image URL: 
+[2025-06-04 05:57:55] Failed to fetch image: https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg, HTTP 403, The requested URL returned error: 403
+[2025-06-04 05:57:55] Invalid image URL: 
+[2025-06-04 05:58:01] Failed to fetch image: https://cdn.forumcomm.com/dims4/default/a69667f/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Fbrainerddispatch%2Fbinary%2Fcopy%2Fbb%2F4e%2Fc32865b7091a01614fe2f68c2ad9%2F2137603-0b3axyh3ek8hfcgxmvfrxcxk2qjq-binary-2788270.jpg, HTTP 0, Resolving timed out after 5000 milliseconds
+[2025-06-04 05:58:01] Failed to fetch image: https://assets-varnish.triblive.com/2025/06/8561537_web1_AP25152053298343.jpg, HTTP 403, The requested URL returned error: 403
+[2025-06-04 05:58:08] Failed to fetch image: https://www.newsletter.co.uk/webimg/b25lY21zOmIyZWI3YWIwLTZjMmUtNGVkOC05ZjNkLWE0NGM0Y2U1MzBjYzozZGY2MWE2Ni00NzE0LTRlZTUtOTE1Mi0wNDQ1OGY4ZGZjYjI=.jpg?auto=webp&crop=3%3A2&width=1200, HTTP 0, Resolving timed out after 5000 milliseconds
+[2025-06-04 05:58:08] Invalid image URL: 
+[2025-06-04 05:58:16] Failed to fetch image: https://cdn.forumcomm.com/dims4/default/a69667f/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Fbrainerddispatch%2Fbinary%2Fcopy%2Fbb%2F4e%2Fc32865b7091a01614fe2f68c2ad9%2F2137603-0b3axyh3ek8hfcgxmvfrxcxk2qjq-binary-2788270.jpg, HTTP 0, Resolving timed out after 5001 milliseconds
+[2025-06-04 05:58:16] Failed to fetch image: https://assets-varnish.triblive.com/2025/06/8561537_web1_AP25152053298343.jpg, HTTP 403, The requested URL returned error: 403
+[2025-06-04 05:58:21] Failed to fetch image: https://www.newsletter.co.uk/webimg/b25lY21zOmIyZWI3YWIwLTZjMmUtNGVkOC05ZjNkLWE0NGM0Y2U1MzBjYzozZGY2MWE2Ni00NzE0LTRlZTUtOTE1Mi0wNDQ1OGY4ZGZjYjI=.jpg?auto=webp&crop=3%3A2&width=1200, HTTP 0, Resolving timed out after 5000 milliseconds
+[2025-06-04 05:58:21] Invalid image URL: 
+[2025-06-04 05:58:34] Invalid image URL: 
+[2025-06-04 05:58:35] Failed to fetch image: https://apnlive.com/wp-content/uploads/2025/06/rcb-wins-ipl-2025-final-against-punjab-kings-1000x600.webp, HTTP 403, The requested URL returned error: 403
+[2025-06-04 05:58:36] Invalid image URL: 
+[2025-06-04 05:58:41] Failed to fetch image: https://twt-thumbs.washtimes.com/media/image/2025/06/02/APTOPIX_Boulder_Attack_46873_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c=, HTTP 403, The requested URL returned error: 403
+[2025-06-04 05:58:41] Stored 19 new headlines for 2025-06-04.
+[2025-06-04 05:58:48] Failed to fetch image: https://cdn.f4wonline.com/wp-content/uploads/2025/05/WWE-MITB-2025-John-Cena-Logan-Paul-Cody-Rhodes-Jey-Uso.png?aspect_ratio=320%3A207&width=320, HTTP 0, Resolving timed out after 5000 milliseconds
+[2025-06-04 05:58:48] Stored 20 new headlines for 2025-06-04.
+[2025-06-04 05:58:54] Invalid image URL: 
+[2025-06-04 05:58:54] Failed to fetch image: https://apnlive.com/wp-content/uploads/2025/06/rcb-wins-ipl-2025-final-against-punjab-kings-1000x600.webp, HTTP 403, The requested URL returned error: 403
+[2025-06-04 05:58:55] Invalid image URL: 
+[2025-06-04 05:58:56] Failed to fetch image: https://twt-thumbs.washtimes.com/media/image/2025/06/02/APTOPIX_Boulder_Attack_46873_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c=, HTTP 403, The requested URL returned error: 403
+[2025-06-04 05:58:56] Stored 0 new headlines for 2025-06-04.
+[2025-06-04 05:59:01] Failed to fetch image: https://cdn.f4wonline.com/wp-content/uploads/2025/05/WWE-MITB-2025-John-Cena-Logan-Paul-Cody-Rhodes-Jey-Uso.png?aspect_ratio=320%3A207&width=320, HTTP 0, Resolving timed out after 5000 milliseconds
+[2025-06-04 05:59:01] Stored 0 new headlines for 2025-06-04.
+[2025-06-04 06:00:44] Failed to fetch image: https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/06/03/1763210-dna-6-june.png?im=Resize%3D%28400%29, HTTP 0, Resolving timed out after 5001 milliseconds
+[2025-06-04 06:00:49] Invalid image URL: 
+[2025-06-04 06:00:53] Invalid image URL: 
+[2025-06-04 06:00:54] Stored 20 new headlines for 2025-06-04.
+[2025-06-04 06:03:06] Invalid image URL: 
+[2025-06-04 06:03:07] Invalid image URL: 
+[2025-06-04 06:03:07] Failed to fetch image: https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg, HTTP 403, The requested URL returned error: 403
+[2025-06-04 06:03:08] Failed to fetch image: https://i-invdn-com.investing.com/news/LYNXMPEAA50PT_M.jpg, HTTP 403, The requested URL returned error: 403
+[2025-06-04 06:03:56] Failed to fetch image: https://cdn.benzinga.com/files/images/story/2025/06/03/Software--Coding-Hologram-And-Woman-In-D.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720, HTTP 0, Resolving timed out after 5000 milliseconds
+[2025-06-04 06:04:11] Failed to fetch image: https://cdn.mos.cms.futurecdn.net/sMmQnCqz2L3LQZJ7KEbryG.jpg, HTTP 0, Resolving timed out after 5000 milliseconds
+[2025-06-04 06:04:11] Invalid image URL: 
+[2025-06-04 06:04:11] Stored 19 new headlines for 2025-06-04.
+[2025-06-04 06:07:33] Invalid image URL: 
+[2025-06-04 06:07:35] Invalid image URL: 
+[2025-06-04 06:07:35] Invalid image URL: 
+[2025-06-04 06:07:35] Invalid image URL: 
+[2025-06-04 06:08:20] Failed to fetch image: https://cdn.forumcomm.com/dims4/default/6d134bd/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fc8%2F75%2F7c5f82cc4a9f815db3043579abf0%2Fdsc-7557.JPG, HTTP 0, Resolving timed out after 5000 milliseconds
+[2025-06-04 06:08:22] Invalid image URL: 
+[2025-06-04 06:08:23] Stored 18 new headlines for 2025-06-04.

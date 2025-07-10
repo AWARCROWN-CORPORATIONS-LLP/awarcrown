@@ -1,0 +1,7 @@
+2025-03-30 06:33:01 - Invalid request
+2025-03-30 06:45:49 - Invalid file type. Only JPG, JPEG, PNG, and GIF allowed.
+[30-Mar-2025 12:44:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resizeAndSaveImage() in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadprofile.php:65
+Stack trace:
+#0 /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadprofile.php(23): handleFileUpload()
+#1 {main}
+  thrown in /home/cvbymwif7akv/public_html/test/form-1/userprofile/uploadprofile.php on line 65

