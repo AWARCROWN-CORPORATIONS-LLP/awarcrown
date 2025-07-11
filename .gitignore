@@ -5,6 +5,10 @@ Thumbs.db
 # Ignore PHP/Node caches
 *.log
 *.tmp
+*.cache
+*.bak
+*.swp
+*.zip
 __pycache__/
 node_modules/
 
@@ -12,5 +16,33 @@ node_modules/
 .vscode/
 .idea/
 
-# Ignore sensitive
+# Ignore environment and secrets
 .env
+.env.*
+*.env
+.env.local
+.env.development
+.env.production
+credentials.json
+secrets.json
+
+# Ignore sensitive configuration files
+config.php
+database.php
+db.php
+config/*.php
+config/*.json
+**/db*.php
+**/*config*.php
+**/*database*.php
+
+# Ignore SSL/SSH secrets
+*.pem
+*.key
+*.crt
+*.pub
+*.p12
+*.jks
+
+# Ignore Composer vendor
+/vendor/
